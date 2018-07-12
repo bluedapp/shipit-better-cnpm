@@ -1,0 +1,35 @@
+{
+  "name": "shipit-better-cnpm",
+  "version": "0.0.4",
+  "description": "cnpm tasks for shipit",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluedapp/shipit-better-cnpm.git"
+  },
+  "keywords": [
+    "shipit",
+    "cnpm",
+    "shipit-npm",
+    "better-cnpm",
+    "shipit-better-cnpm"
+  ],
+  "author": "meizikeai@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluedapp/shipit-better-cnpm/issues"
+  },
+  "homepage": "https://github.com/bluedapp/shipit-better-cnpm",
+  "devDependencies": {
+    "shipit-better-deploy": "^0.0.5"
+  },
+  "dependencies": {
+    "shipit-utils": "^1.3.0"
+  }
+}
